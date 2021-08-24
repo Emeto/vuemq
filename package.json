@@ -1,0 +1,19 @@
+{
+  "name": "rabbitmq-messaging",
+  "version": "0.1.0",
+  "description": "Quick Vue messaging app to test RabbitMQ basic features",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jérémy Castellano <jeremy.castellano@me.com>",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "vue": "^2.6.14",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.8.2",
+    "typescript": "^4.3.5"
+  }
+}
